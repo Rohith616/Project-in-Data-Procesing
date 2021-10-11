@@ -1,7 +1,7 @@
 # Project-in-Data-Procesing
 
 Project :
-Let us build a complete project using NumPy.
+       Let us build a complete project using NumPy.
 
 To do list;
 
